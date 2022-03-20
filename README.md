@@ -29,3 +29,7 @@
 14.https://developer.marvel.com/
 
 15.https://pokeapi.co/
+
+16.https://github.com/public-apis/public-apis
+
+17.https://free-apis.github.io/#/browse
