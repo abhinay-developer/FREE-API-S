@@ -11,3 +11,5 @@
 4.https://randomuser.me/
 
 5.https://reqres.in/
+
+6.https://spoonacular.com/
