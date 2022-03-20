@@ -4,9 +4,7 @@
 
 2.https://fakestoreapi.com/
 
-
 3.https://covid19api.com/
-
 
 4.https://randomuser.me/
 
@@ -27,3 +25,7 @@
 12.https://funtranslations.com/api/
 
 13.https://thedogapi.com/
+
+14.https://developer.marvel.com/
+
+15.https://pokeapi.co/
