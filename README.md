@@ -13,3 +13,5 @@
 5.https://reqres.in/
 
 6.https://spoonacular.com/
+
+7.https://deckofcardsapi.com/
