@@ -15,3 +15,15 @@
 6.https://spoonacular.com/
 
 7.https://deckofcardsapi.com/
+
+8.https://developers.giphy.com/
+
+9.https://api.adviceslip.com/
+
+10.https://jservice.io/
+
+11.http://www.omdbapi.com/
+
+12.https://funtranslations.com/api/
+
+13.https://thedogapi.com/
